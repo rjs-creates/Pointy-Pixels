@@ -1,0 +1,10 @@
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\bin\Debug\Lab3_SinghRajeshwar.exe.config
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\bin\Debug\Lab3_SinghRajeshwar.exe
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\bin\Debug\Lab3_SinghRajeshwar.pdb
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.csprojAssemblyReference.cache
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.Properties.Resources.resources
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.csproj.GenerateResource.cache
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.csproj.CoreCompileInputs.cache
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.exe
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.pdb
+E:\2800\Labs\Lab3_SinghRajeshwar\Lab3_SinghRajeshwar\obj\Debug\Lab3_SinghRajeshwar.myForm.resources
